@@ -1,0 +1,8 @@
+<html>
+
+<body>
+	<p>Thank you for registering to xaver socials site.</p>
+	<p>Please click <a href="${url}/confirmregister?t=${token}">here to verify your Email address</a> </p>
+</body>
+
+</html>
